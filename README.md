@@ -6,4 +6,4 @@ Use this to record instructions.
 Here is a section
 # Section 2
 Here is another
-Link to [SBCA GitHub] (https://github.com/jth41/sbca-data-standard/blob/master/README.md)
+Link to [SBCA GitHub](https://github.com/jth41/sbca-data-standard/blob/master/README.md)
